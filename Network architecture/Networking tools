@@ -1,0 +1,11 @@
+Network Devices and Their Functions
+
+Hubs: These devices broadcast information to every connected device on a network, similar to a radio tower.
+Switches: More intelligent than hubs, switches create specific connections between devices, sending data only to the intended recipient, which enhances security and network performance.
+Connecting Networks and the Internet
+
+Routers: Routers connect multiple networks, directing information between them by reading destination addresses and forwarding data to the appropriate network's router.
+Modems: These devices connect your router to the internet, enabling internet access for your local area network (LAN) and facilitating communication with devices in different geographic locations.
+Virtualization in Networking
+
+Virtualization Tools: Beyond physical devices, software-based virtualization tools can perform the functions of hubs, switches, routers, and modems. These tools, often offered by cloud service providers, provide cost savings and scalability in network operations.
